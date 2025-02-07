@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 I'm currently learning Mobile App Development<br><br>📝 I love exploring and working on Android & iOS apps<br><br>💬 Ask me about Kotlin, Java, Android, Flutter<br><br>📫 How to reach me: https://www.linkedin.com/in/shaimaa-mamdouh-275454335/</p>
+<p align="left">🚀 I'm currently learning Mobile App Development<br><br>📝 I love exploring and working on Android & iOS apps<br><br>💬 Ask me about Kotlin, Java, Android,C++<br><br>📫 How to reach me: https://www.linkedin.com/in/shaimaa-mamdouh-275454335/</p>
 
 ###
 
